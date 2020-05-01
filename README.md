@@ -1,6 +1,6 @@
 A web platform to help improve revenue/resource collection within local government/community.
 
-[![Codacy Badge](https://img.shields.io/badge/Code%20Quality-D-red)](https://img.shields.io/badge/Code%20Quality-D-red)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/73009a9925e140e7b2ed04b2ad7679df)](https://www.codacy.com/gh/BuildForSDG/team-266?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=BuildForSDG/team-266&amp;utm_campaign=Badge_Grade)
 
 
 ## About
