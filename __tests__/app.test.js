@@ -1,4 +1,4 @@
-import app from '../src/index';
+import app from '../src/app';
 
 describe('app module', () => {
   test('it exists', async () => {
