@@ -1,0 +1,25 @@
+#root {
+  width: 100vw;
+  height: 100vh;
+}
+
+.footer {
+  background-color: rgb(34, 34, 34);
+  color: rgb(255, 255, 255);
+  min-height: 96px;
+}
+
+#footer_content {
+  max-width: 960px;
+}
+
+.footer a,
+.footer a:hover {
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+}
+
+.footer a:hover,
+.footer a:active {
+  text-decoration: underline;
+}

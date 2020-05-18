@@ -1,9 +1,9 @@
 import React from 'react';
+import Home from './views/Home/Home';
 
-const App = () => (
-  <div>
-    <h1>URGO</h1>
-  </div>
-);
+import './App.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
+const App = () => <Home />;
 
 export default App;
